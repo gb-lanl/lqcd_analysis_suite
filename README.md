@@ -1,1 +1,3 @@
-# lqcd_analysis_suite
+# lanl_fit_analysis
+Analysis suite for lattice QCD. 
+

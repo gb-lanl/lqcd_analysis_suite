@@ -1,0 +1,4 @@
+tests/data/
+past_fitting
+*.txt
+*.pyc

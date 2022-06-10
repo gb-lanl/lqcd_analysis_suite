@@ -1,0 +1,17 @@
+models:
+
+  nucleon:2pt:
+    path_to_data: '~/lanl_fit_analysis/tests/data/C13/C13-b_4002.ama.h5' 
+    correlators : [nucleon]
+    datasets : 
+    sinks : 
+    sources : 
+    fit_type : 
+    t_range : 
+    xpt : False
+    fv : Null
+    fit_phys_units: False
+    fit_fpi_units : True
+    sigma: False
+    delta: False
+    axial: True
